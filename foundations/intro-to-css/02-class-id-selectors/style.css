@@ -1,0 +1,19 @@
+.im-a-class {
+    background-color: #ff96c4;
+    font-family: Verdana, "DejaVu Sans", sans-sherif;
+}
+
+#second-element {
+    color: hsl(231, 95%, 43%);
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: rgb(41, 255, 27);
+    font-size: 24px;
+    font-weight: bold;
+}
